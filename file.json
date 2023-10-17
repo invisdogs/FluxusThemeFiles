@@ -1,35 +1,47 @@
 {
-    "iZesty": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/iZesty/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/iZesty/preview.png"
+    "Bill Gates": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Bill Gates/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Bill Gates/preview.png"
     },
-    "Pokemon": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Pokemon/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Pokemon/preview.png"
+    "Bob The Builder": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Bob The Builder/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Bob The Builder/preview.png"
+    },
+    "Boris Johnson": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson/preview.png"
+    },
+    "Boris Johnson 2": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson 2/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson 2/preview.png"
     },
     "City": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/City/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/City/preview.png"
     },
+    "Discord": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Discord/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Discord/preview.png"
+    },
     "Fluxus Logo": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/Fluxus Logo/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/Fluxus Logo/preview.png"
+    },
+    "Pokemon": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Pokemon/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Pokemon/preview.png"
     },
     "Pokemon 2": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/Pokemon 2/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/Pokemon 2/preview.png"
     },
-    "Steve Jobs": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Steve Jobs/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Steve Jobs/preview.png"
-    },
     "Richard Ashcroft": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/Richard Ashcroft/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/Richard Ashcroft/preview.png"
     },
-    "Boris Johnson": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson/preview.png"
+    "Sakpot": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Sakpot/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Sakpot/preview.png"
     },
     "Sha EK": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/Sha EK/theme.flux",
@@ -39,36 +51,24 @@
         "file": "https://fluxusthemes.github.io/ThemeFiles/Sheep Welsh/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/Sheep Welsh/preview.png"
     },
-    "Bob The Builder": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Bob The Builder/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Bob The Builder/preview.png"
+    "Space": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Space/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Space/preview.png"
     },
-    "Sakpot": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Sakpot/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Sakpot/preview.png"
+    "Steve Jobs": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/Steve Jobs/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/Steve Jobs/preview.png"
     },
     "TS": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/TS/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/TS/preview.png"
     },
-    "Boris Johnson 2": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson 2/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Boris Johnson 2/preview.png"
-    },
-    "Discord": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Discord/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Discord/preview.png"
-    },
-    "Space": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Space/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Space/preview.png"
-    },
-    "Bill Gates": {
-        "file": "https://fluxusthemes.github.io/ThemeFiles/Bill Gates/theme.flux",
-        "preview": "https://fluxusthemes.github.io/ThemeFiles/Bill Gates/preview.png"
-    },
     "Welsh": {
         "file": "https://fluxusthemes.github.io/ThemeFiles/Welsh/theme.flux",
         "preview": "https://fluxusthemes.github.io/ThemeFiles/Welsh/preview.png"
+    },
+    "iZesty": {
+        "file": "https://fluxusthemes.github.io/ThemeFiles/iZesty/theme.flux",
+        "preview": "https://fluxusthemes.github.io/ThemeFiles/iZesty/preview.png"
     }
 }
