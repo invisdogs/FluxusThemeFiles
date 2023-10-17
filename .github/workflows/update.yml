@@ -5,7 +5,7 @@ on:
     paths:
       - '**.png'
       - '**.json'
-      - 'main.py'
+      - '**.py'
 
 jobs:
   build:
