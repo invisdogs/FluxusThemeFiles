@@ -1,4 +1,4 @@
-name: Build and commit out.lua
+name: Update list
 
 on:
   push:
