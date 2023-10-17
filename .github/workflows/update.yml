@@ -3,8 +3,8 @@ name: Build and commit out.lua
 on:
   push:
     paths:
-      - '**.lua'
-      - 'build.py'
+      - '**.png'
+      - '**.json'
 
 jobs:
   build:
