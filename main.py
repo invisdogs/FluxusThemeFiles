@@ -4,7 +4,6 @@ import urllib.parse
 
 data = {}
 
-print(url_encoded_string)
 for x in os.walk('.'):
     if x[0] != '.' and ".git" not in x[0]:
         title = x[0][2:]
