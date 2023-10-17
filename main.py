@@ -3,7 +3,7 @@ import os
 
 data = {}
 
-def url_encode_string(input_string):
+def urlEncodeString(input_string):
     encoded_string = ''
     for char in input_string:
         if char.isalnum() or char in ['-', '_', '.', '~']:
@@ -14,7 +14,7 @@ def url_encode_string(input_string):
 
 for x in os.walk('.'):
     if x[0] != '.' and ".git" not in x[0]:
-        folder = url_encode_string(x[0][2:])
+        folder = urlEncodeString(x[0][2:])
         print(f'added {folder}')
         data[folder] = {
                 "file":f'https://fluxusthemes.github.io/ThemeFiles/{folder}/theme.flux',
