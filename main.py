@@ -12,5 +12,6 @@ for x in os.walk('.'):
                 "preview":f'https://fluxusthemes.github.io/ThemeFiles/{folder}/preview.png'
             }
 
+sorted_dict = {key: data[key] for key in sorted(data)} #Sort
 with open('file.json', 'w') as f:
-    json.dump(data, f, indent=4)
+    json.dump(sorted_dict, f, indent=4)
