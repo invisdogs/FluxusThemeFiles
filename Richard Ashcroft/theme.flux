@@ -1,0 +1,5 @@
+{
+    "main_grid": "https://img.resized.co/hotpress/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLmhvdHByZXNzLmNvbVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDlcXFwvMDEyMjEzNDFcXFwvcmljaGFyZC1hc2hjcm9mdF93ZWItMi5qcGdcIixcIndpZHRoXCI6NzAwLFwiaGVpZ2h0XCI6MzcwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuaG90cHJlc3MuY29tXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9OFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjY2I1YTM3OTVkYjQ0NjFlMmIyODY4MzFkYjg3OGZiMGFiM2NlNTRmIn0=/richard-ashcroft-web-2.jpg",
+    "top_bar": "#368287",
+    "tab_background": "#368287"
+}
