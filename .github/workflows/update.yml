@@ -6,6 +6,7 @@ on:
       - '**.png'
       - '**.json'
       - '**.py'
+      - '**.yml'
 
 jobs:
   build:
@@ -19,10 +20,10 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Run build.py
+    - name: Build the JSON
       run: python main.py
       
-    - name: Update file
+    - name: Update Jason
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
